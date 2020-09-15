@@ -1,5 +1,5 @@
 ---
-version: 3.2.0
+version: 3.2.1
 ---
 
 # Section I: Usage notes
@@ -13,11 +13,11 @@ No player shall, during any official match they participate in, be permitted to:
 
 1. Teleport into or out of an area, access to which is restricted (from where the player is teleporting from) by _unbreakable blocks_<sup>__[[1]](#section-vii-definitions)__</sup>, using either:
     1. an enderpearl that travels through the void lane, or
-    2. a bed or rideable entity, (except when the destination can be seen by the player without looking through the void lane or an unbreakable block).
+    2. a bed or rideable entity, (except when the destination can be seen by the player without looking through the void lane or a barrier block).
 2. Respawn at a location separated from the player’s bed by unbreakable blocks
 3. Cause any part of any entity to occupy the same location as an unbreakable block.
     1. Exception: A player enters an unbreakable block by throwing an enderpearl from below that block, and takes no actions before falling out of the block.
-4. Use a TNT minecart to destroy anything through an unbreakable block.
+4. Use a TNT minecart on a rail to destroy anything through an unbreakable block.
 6. Cause any air block in the void lane or unbreakable block to be removed or replaced with any other block.
 5. Pick up an item entity (directly into the inventory of either the player or a hopper minecart) across an unbreakable block.
 7. Open a minecart inventory if its collision box is not in the player’s line of sight.
@@ -67,8 +67,10 @@ No player shall, during any official match they participate in, be permitted to:
 
 # Section IV: Tie-breaking
 
-1. If all teams have the same number of _capped_<sup>__[[4]](#section-vii-definitions)__</sup> objectives after 80 minutes, victory is awarded to the team that had the highest number of simultaneous capped objectives at any time during the match.
-2. If the highest number of simultaneous capped objectives is the same for all teams, victory is awarded to first team to cap that number of objectives during that match.
+1. If a match reaches the time limit, then the match is ended. The time limit is 80 minutes, unless otherwise specified by a tournament organiser.
+2. When the time limit is reached, victory is awarded to the team with the highest number of _capped_<sup>__[[4]](#section-vii-definitions)__</sup> objectives.
+3. If all teams have the same number of capped objectives after 80 minutes, victory is awarded to the team that had the highest number of simultaneous capped objectives at any time during the match.
+4. If the highest number of simultaneous capped objectives is the same for all teams, victory is awarded to the first team to cap that number of objectives during that match.
 
 # Section V: General Constraints
 
