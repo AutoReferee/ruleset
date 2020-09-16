@@ -47,7 +47,7 @@ No player shall, during any official match they participate in, be permitted to:
     3. [Replay Mod](https://www.replaymod.com/)
     4. [1.7 Animations](https://www.curseforge.com/minecraft/mc-mods/old-animations-mod) 
     5. [bspkrs Core, ArmorStatus HUD, DirectionHUD, StatusEffectHUD](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud)
-    [5zig](https://5zigreborn.eu/)
+    6. [5zig](https://5zigreborn.eu/)
 3. The following mods/tools are explicitly prohibited:
     1. Minimaps of any kind
     2. Damage/Health Indicator
