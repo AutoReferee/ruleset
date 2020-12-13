@@ -41,13 +41,13 @@ No player shall, during any official match they participate in, be permitted to:
 # Section III: Mods and external tools
 
 1. It is prohibited to use any resource pack that:
-    1. the ratio of transparent pixels to opaque pixels, compared to the default resource pack, in the following:
+    1. increases the ratio of transparent pixels to opaque pixels, compared to the default resource pack, in the following:
 	    1. fully opaque textures,
 	    2. doors,
 	    3. leaves,
     2. changes the shape of any 1x1x1 block,
     3. makes entities with the invisibility effect more visible,
-    4. uses different textures for any two different blocks or items that have the same texture in the default resource pack (eg. different mob egg block and its corresponding block, unique textures for each enchantment)
+    4. uses different textures for any two different blocks or items that have the same texture in the default resource pack (eg. different mob egg block and its corresponding block, unique textures for individual enchantment)
 2. It is prohibited to use any external tool that modifies gameplay to gain an advantage over other players, or use a Minecraft client that has been modified in any way, apart from having one or more of the following mods installed:
     1. [Optifine](https://optifine.net/home) 
     2. [Forge](http://files.minecraftforge.net/)
