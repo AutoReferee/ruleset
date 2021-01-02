@@ -1,5 +1,5 @@
 ---
-version: 3.2.2
+version: 3.2.3
 ---
 
 # Section I: Usage notes
@@ -37,6 +37,7 @@ No player shall, during any official match they participate in, be permitted to:
     1. the Minecraft client they are using to participate in the match,
     2. communications over designated channels of a voice chat server approved by a referee for use in that match, or
     3. direct verbal and/or gestural communications made by any of their teammates connecting to the match from the same immediate physical area.
+17. Enter an area (clientside), that is separated from the player’s true location (serverside) by unbreakable blocks
 
 # Section III: Mods and external tools
 
@@ -45,9 +46,10 @@ No player shall, during any official match they participate in, be permitted to:
 	    1. fully opaque textures,
 	    2. doors,
 	    3. leaves,
-    2. changes the shape of any 1x1x1 block,
-    3. makes entities with the invisibility effect more visible,
-    4. uses different textures for any two different blocks or items that have the same texture in the default resource pack (eg. different mob egg block and its corresponding block, unique textures for individual enchantment)
+    2. more than doubles the amount of connected transparent regions in any door texture, compared to default
+    3. changes the shape of any 1x1x1 block,
+    4. makes entities with the invisibility effect more visible,
+    5. uses different textures for any two different blocks or items that have the same texture in the default resource pack (eg. different mob egg block and its corresponding block, unique textures for each individual enchantment)
 2. It is prohibited to use any external tool that modifies gameplay to gain an advantage over other players, or use a Minecraft client that has been modified in any way, apart from having one or more of the following mods installed:
     1. [Optifine](https://optifine.net/home) 
     2. [Forge](http://files.minecraftforge.net/)
